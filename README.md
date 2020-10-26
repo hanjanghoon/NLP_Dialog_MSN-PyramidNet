@@ -10,7 +10,7 @@ https://www.aclweb.org/anthology/K18-1048.pdf
 ### Deep Pyramidal Residual Networks
 https://arxiv.org/pdf/1610.02915.pdf
 
-Ubuntu data, Response selection
+Ubuntu data V1, Response selection
 
 multi-hop selector의 Aggregation 부분을 PyramidNet으로 대체 하여 성능을 향상
 
